@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 Feel free to adjust further if needed!
 
-## Usange
+## Usage
 To use DBLPExplore, run the following command in your terminal:
 | Argument | Description | Required/Optional |
 |---|---|---|
